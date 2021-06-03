@@ -1,2 +1,2 @@
 # emoji-react
-Created with CodeSandbox
+Basic React JS project
