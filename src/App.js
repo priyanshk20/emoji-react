@@ -5,6 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>WhatMoji</h1>
+      <input></input>
     </div>
   );
 }
