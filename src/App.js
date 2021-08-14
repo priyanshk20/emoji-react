@@ -6,7 +6,12 @@ const emojiDictionary = {
   "😉": "Wink",
   "😣": "Irritated",
   "🥱": "Yawning",
-  "😭": "Crying"
+  "😭": "Crying",
+  "🙄": "Rolling eyes",
+  "😥" "Tensed",
+  "🤑": "Rich",
+  "😴" : "Sleepy",
+  "🥵": "Hot face"
 };
 
 var emojisIndb = Object.keys(emojiDictionary);
