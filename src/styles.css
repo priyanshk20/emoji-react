@@ -2,9 +2,11 @@
   font-family: sans-serif;
   text-align: center;
   background-color: red;
+  margin:0;
 }
 
+
 input {
-  padding: 1rem;
-  width: 80%;
+  padding: 2rem;
+  width: 90%;
 }
