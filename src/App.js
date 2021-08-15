@@ -8,7 +8,7 @@ const emojiDictionary = {
   "🥱": "Yawning",
   "😭": "Crying",
   "🙄": "Rolling eyes",
-  "😥" "Tensed",
+  "😥":"Tensed",
   "🤑": "Rich",
   "😴" : "Sleepy",
   "🥵": "Hot face"
